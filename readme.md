@@ -25,21 +25,7 @@ Antes de ejecutar el proyecto se necesita tener instalado:
 
 ## Instalación
 
-### 1. Clonar el repositorio
-
-Desde una terminal:
-
-```bash
-git clone URL_DEL_REPOSITORIO
-```
-
-Luego ingresar a la carpeta del proyecto:
-
-```bash
-cd NOMBRE_DEL_REPOSITORIO
-```
-
-### 2. Crear un entorno virtual
+### 1. Crear un entorno virtual
 
 Se recomienda utilizar un entorno virtual para instalar las dependencias del proyecto:
 
@@ -53,18 +39,11 @@ Activar el entorno virtual en Windows:
 .\env\Scripts\activate
 ```
 
-### 3. Instalar las dependencias
+2. Instalar las librerías necesarias
 
-Instalar `google-genai`:
-
+Con el entorno virtual activado, ejecutar:
 ```bash
-pip install google-genai
-```
-
-Instalar `python-dotenv`:
-
-```bash
-pip install python-dotenv
+pip install -r requirements.txt
 ```
 
 ---
