@@ -158,6 +158,7 @@ Para terminar:
 ```text
 salir
 ```
+<img width="1635" height="160" alt="Ejercicio_1" src="https://github.com/user-attachments/assets/c3734238-bfef-4c33-bcae-f559581731a5" />
 
 ---
 
