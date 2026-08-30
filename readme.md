@@ -190,6 +190,10 @@ Para finalizar:
 ```text
 salir
 ```
+## Evidencia ejecución
+<img width="1240" height="445" alt="image" src="https://github.com/user-attachments/assets/716fb467-f178-409e-8745-57356a219b19" />
+
+<img width="1236" height="304" alt="image" src="https://github.com/user-attachments/assets/bdb409ea-cc47-4018-88d5-d6d9d441fde7" />
 
 ---
 
