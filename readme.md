@@ -12,17 +12,6 @@ Los ejercicios desarrollados son:
 
 ---
 
-## Requisitos
-
-Antes de ejecutar el proyecto se necesita tener instalado:
-
-* Python 3.10 o superior.
-* Una API Key de Gemini.
-* La librería `google-genai`.
-* La librería `python-dotenv`.
-
----
-
 ## Instalación
 
 ### 1. Crear un entorno virtual
@@ -39,7 +28,7 @@ Activar el entorno virtual en Windows:
 .\env\Scripts\activate
 ```
 
-2. Instalar las librerías necesarias
+### 2. Instalar las librerías necesarias
 
 Con el entorno virtual activado, ejecutar:
 ```bash
@@ -59,31 +48,6 @@ Crear un archivo llamado:
 ```
 
 En la raíz del proyecto y agregar:
-
-```text
-GENAI_API_KEY=TU_API_KEY_AQUI
-```
-
-El código obtiene la API Key mediante:
-
-```python
-API_KEY = os.getenv("GENAI_API_KEY")
-```
-
-### Seguridad
-
-El archivo `.env` contiene información privada y **no debe subirse al repositorio de GitHub**.
-
-Por esta razón, el proyecto debe incluir un archivo `.gitignore` con:
-
-```text
-.env
-env/
-__pycache__/
-*.pyc
-```
-
-También se puede incluir un archivo `.env.example` como referencia:
 
 ```text
 GENAI_API_KEY=TU_API_KEY_AQUI
