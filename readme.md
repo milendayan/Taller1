@@ -303,44 +303,15 @@ finalizar
 La estructura recomendada del repositorio es:
 
 ```text
-Taller-Google-GenAI/
+Taller-Google-GenA/
 │
 ├── ejercicio_1.py
 ├── ejercicio_2.py
 ├── ejercicio_3.py
 ├── README.md
-├── .env.example
+├── requeriments.txt
 ├── .gitignore
-└── evidencias/
-    ├── ejercicio_1.png
-    ├── ejercicio_2_resumir.png
-    ├── ejercicio_2_profesionalizar.png
-    └── ejercicio_3.png
 ```
-
-El archivo `.env` debe permanecer únicamente de forma local y no debe subirse a GitHub.
-
----
-
-# Tecnologías utilizadas
-
-* **Python**
-* **Google GenAI (`google-genai`)**
-* **Gemini**
-* **python-dotenv**
-
----
-
-# Evidencias
-
-En la carpeta `evidencias/` se incluyen capturas de pantalla que muestran la ejecución y los resultados obtenidos en cada ejercicio.
-
-Las evidencias incluyen:
-
-* Ejecución del Ejercicio 1 y respuesta sobre Inferencia en IA.
-* Ejecución del Ejercicio 2 utilizando la tarea `resumir`.
-* Ejecución del Ejercicio 2 utilizando la tarea `profesionalizar`.
-* Ejecución del Ejercicio 3 mostrando la conversación con el vendedor y el mantenimiento del historial.
 
 ---
 
