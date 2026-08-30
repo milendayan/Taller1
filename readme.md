@@ -43,7 +43,7 @@ Activar el entorno virtual en Windows:
 
 Con el entorno virtual activado, ejecutar:
 ```bash
-pip install -r requirements.txt
+pip install -r requeriments.txt
 ```
 
 ---
