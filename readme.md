@@ -95,7 +95,9 @@ Para terminar:
 ```text
 salir
 ```
-<img width="1635" height="160" alt="Ejercicio_1" src="https://github.com/user-attachments/assets/c3734238-bfef-4c33-bcae-f559581731a5" />
+## Evidencia ejecución
+
+<img width="1269" height="223" alt="image" src="https://github.com/user-attachments/assets/b19b3d5f-db78-41c8-8abf-3be9f1dd4b68" />
 
 ---
 
@@ -145,12 +147,6 @@ Editor Editorial de prestigio
 ```
 
 Esta instrucción indica que debe procesar los textos de manera clara, formal, técnica y profesional.
-
-## Archivo
-
-```text
-ejercicio_2.py
-```
 
 ## Ejecución
 
