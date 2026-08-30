@@ -296,6 +296,13 @@ Para finalizar el chat se debe escribir:
 finalizar
 ```
 
+## Evidencias de ejecución
+<img width="1068" height="306" alt="image" src="https://github.com/user-attachments/assets/5a53e8aa-11a2-4c3b-9a61-2e80023ab338" />
+
+<img width="1073" height="551" alt="image" src="https://github.com/user-attachments/assets/37cdf3c8-4982-44d8-be15-c2142cc8437f" />
+
+<img width="1069" height="511" alt="image" src="https://github.com/user-attachments/assets/e3dd4e4c-2d93-4743-8a20-8b60e4c0c4fb" />
+
 ---
 
 # Estructura del proyecto
