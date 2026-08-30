@@ -22,13 +22,13 @@ Se recomienda utilizar un entorno virtual para instalar las dependencias del pro
 python -m venv env
 ```
 
-Activar el entorno virtual en Windows:
+### 2. Activar el entorno virtual en Windows:
 
 ```powershell
 .\env\Scripts\activate
 ```
 
-### 2. Instalar las librerías necesarias
+### 3. Instalar las librerías necesarias
 
 Con el entorno virtual activado, ejecutar:
 ```bash
@@ -64,12 +64,6 @@ El primer ejercicio inicializa el cliente de Gemini y realiza una petición util
 El modelo recibe una instrucción para explicar qué es la **Inferencia en Inteligencia Artificial** en menos de 50 palabras.
 
 Además, el programa permite realizar consultas desde la consola hasta que el usuario escriba `salir`.
-
-## Archivo
-
-```text
-ejercicio_1.py
-```
 
 ## Ejecución
 
